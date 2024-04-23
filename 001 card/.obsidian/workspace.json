@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "3ad5bc55718591fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaeacb1b585ccf13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a37a73d68c2dec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "豆瓣 TOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3541e57bcc09dfdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5272baa51fc45440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6941453c280baea7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "534204d2ba731a67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b26d06e2c35c08e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ed12aa8c40aef2c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "793359f5ad119c87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "040c19187ac0c6ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "豆瓣 TOP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "957e0c8b1883dde4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "豆瓣 TOP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13ee2d8e73a5e587",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5258284775dcfae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "豆瓣 TOP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6941453c280baea7",
+  "lastOpenFiles": [
+    "《豆子芝麻茶》.md",
+    "《太白金星有点烦》.md",
+    "豆瓣 TOP.md",
+    "original-ec7696a072b74c19125ce5f632d68667.png"
+  ]
+}

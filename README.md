@@ -2,7 +2,7 @@
 
 ![awesome obsidian](https://img.shields.io/badge/awesome%20obsidian-7C3AED) ![last commit](https://shields.io/github/last-commit/linqing24/obsidian-usage)
 
-> 简约，易用
+> 简洁，易用
 
 ## 001 书籍卡片（豆瓣样式）
 

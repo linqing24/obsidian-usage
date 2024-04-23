@@ -10,4 +10,4 @@
 
 ### 使用
 
-下载 [001 card](./001%20card/豆瓣%20TOP.md) 文件夹，在 obsidian 中打开即可
+下载 [001 card](./001%20card/豆瓣%20TOP.md) 库，在 obsidian 中打开即可

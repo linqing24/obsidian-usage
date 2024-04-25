@@ -6,7 +6,34 @@
 
 ## 001 书籍卡片（豆瓣样式）
 
-![cardview](assets/cardview.png)
+书籍卡片清单
+![cardList](assets/cardList.png)
+
+```js
+TABLE without id
+("![test](" + 豆瓣封面 + ")") AS 封面,
+书名,
+作者 + " / "+ 出版社 + " / " + dateformat(出版时间, "yyyy-MM") AS 书籍信息,
+评星 + "  " + 评分 AS 评分,
+摘要
+FROM ""
+where 书名
+```
+
+当前书籍卡片
+
+![card](assets/card.png)
+
+```js
+TABLE without id
+("![test](" + 豆瓣封面 + ")") AS 封面,
+书名,
+作者 + " / "+ 出版社 + " / " + dateformat(出版时间, "yyyy-MM") AS 书籍信息,
+评星 + "  " + 评分 AS 评分,
+摘要
+FROM ""
+where file.path = this.file.path
+```
 
 ### 使用
 

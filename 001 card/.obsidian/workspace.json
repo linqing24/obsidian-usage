@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "豆瓣 TOP.md",
+                "file": "《太白金星有点烦》.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed12aa8c40aef2c3",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "豆瓣 TOP.md",
+                "file": "《太白金星有点烦》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "豆瓣 TOP.md",
+                "file": "《太白金星有点烦》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +125,38 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "豆瓣 TOP.md"
+                "file": "《太白金星有点烦》.md"
+              }
+            }
+          },
+          {
+            "id": "7f529ce0a375306c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "747eeb8c9003d199",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "《太白金星有点烦》.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,10 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6941453c280baea7",
+  "active": "3a37a73d68c2dec0",
   "lastOpenFiles": [
     "《豆子芝麻茶》.md",
     "《太白金星有点烦》.md",
+    "未命名.md",
     "豆瓣 TOP.md",
     "original-ec7696a072b74c19125ce5f632d68667.png"
   ]

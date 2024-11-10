@@ -20,11 +20,22 @@
 
 ## 002 图片描述展示
 
-![image-alt](assets/image-alt.png)
+
 
 ### 说明
 
 图片描述中 & 开头的内容会被显示在图片下方
+
+markdown 写法如下
+
+```markdown
+![[preview.png|&图片描述]]
+![&图片描述](./preview.png)
+```
+
+显示效果如下
+
+![image-alt](assets/image-alt.png)
 
 ### 使用
 

@@ -41,8 +41,21 @@ markdown 写法如下
 
 下载 [002 image-alt](./002%20image-alt) 库，在 obsidian 中打开即可，或者直接使用代码片段
 
+所有 & 开头的描述都会显示在图片下方
 ```css
 .internal-embed.media-embed.image-embed.is-loaded[alt^="&"]::after {
+    content: attr(alt);
+    text-align: center;
+    color: var(--text-accent);
+    display: block;
+    margin-bottom: 1.5em;
+}
+```
+
+如果希望所有的图片都能显示描述
+可以使用如下 css
+```css
+.internal-embed.media-embed.image-embed.is-loaded[alt]::after {
     content: attr(alt);
     text-align: center;
     color: var(--text-accent);

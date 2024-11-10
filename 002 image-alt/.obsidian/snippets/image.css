@@ -1,0 +1,7 @@
+.internal-embed.media-embed.image-embed.is-loaded[alt^="&"]::after {
+    content: attr(alt);
+    text-align: center;
+    color: var(--text-accent);
+    display: block;
+    margin-bottom: 1.5em;
+}

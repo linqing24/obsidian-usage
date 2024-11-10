@@ -16,4 +16,26 @@
 
 ### 使用
 
-下载 [001 card](./001%20card/豆瓣%20TOP.md) 库，在 obsidian 中打开即可
+下载 [001 card](./001%20card/) 库，在 obsidian 中打开即可
+
+## 002 图片描述展示
+
+![image-alt](assets/image-alt.png)
+
+### 说明
+
+图片描述中 & 开头的内容会被显示在图片下方
+
+### 使用
+
+下载 [002 image-alt](./002%20image-alt) 库，在 obsidian 中打开即可，或者直接使用代码片段
+
+```css
+.internal-embed.media-embed.image-embed.is-loaded[alt^="&"]::after {
+    content: attr(alt);
+    text-align: center;
+    color: var(--text-accent);
+    display: block;
+    margin-bottom: 1.5em;
+}
+```
